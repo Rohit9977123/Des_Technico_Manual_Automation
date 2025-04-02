@@ -1,75 +1,86 @@
-## Secure File Sharing Web Application
+Secure File Sharing Web Application
 
-## Overview
+Overview
 
 The Secure File Sharing Web Application provides a safe and efficient platform for users to upload, share, and manage files with advanced encryption and password protection. Hosted on Netlify, the application follows industry best practices for security, performance, and user experience.
 
-## Features
-- **Secure File Upload**: Drag-and-drop functionality for easy file uploads.
-- **Password Protection**: Encrypt and protect files with custom passwords.
-- **Access Control**: Ensure only authorized users can view/download files.
-- **User Authentication**: Sign-up and login system for registered users.
-- **Cross-Browser Compatibility**: Works across major browsers and devices.
+Key Features
 
-## Live URL
-[Secure File Sharing Web App](https://file-sharing-application.netlify.app/login)
-## Project link
-[Manual_All](https://drive.google.com/drive/folders/1sAPWbztK8l0fKUfJuG2jQZRT6kpZnJQb?usp=sharing)
-## Github 
-[Github](https://github.com/Rohit9977123/Des_Technico_Manual_Automation.git)
-## Technologies Used
-- **Selenium**: TestNG,
-- **Java** Test Script
-- **Jira**: Test Case,bug Report
-- **Testing & Automation**: Selenium, JMeter, OWASP ZAP
+🔒 Secure File Upload – Drag-and-drop functionality for seamless file uploads.
 
-## Installation
+🔑 Password Protection – Encrypt and safeguard files with custom passwords.
 
-## Automation Testing
-The automation scripts validate critical flows including sign-up, login, file upload, and security measures.
+🛡️ Access Control – Restrict file access to authorized users only.
 
-### Automation Tools
-- **Selenium**: UI test automation.
-- **JMeter**: Performance testing.
-- **OWASP ZAP**: Security vulnerability scanning.
+👤 User Authentication – Register and log in securely.
 
-### Automated Test Cases
-1. **Sign-up Test**:
-   - Navigate to the sign-up page.
-   - Enter valid details and submit.
-   - Verify account creation and redirection.
-2. **Login Test**:
-   - Enter registered credentials.
-   - Validate successful authentication.
-3. **File Upload Test**:
-   - Drag and drop a file.
-   - Validate file encryption and password protection.
-4. **Security Validation**:
-   - Perform penetration tests for vulnerabilities.
-   - Ensure proper access control mechanisms.
+🌍 Cross-Browser Compatibility – Works seamlessly across all major browsers and devices.
 
-## Test Summary
-- **Total Test Cases**: 60
-- **Passed**: 50
-- **Failed**: 10
-- **Critical Defects**: 4
+🔗 Live Application
 
-## Future Enhancements
-- Improve performance for large file uploads.
-- Enhance user experience with better error handling.
+Access the Secure File Sharing Web App
 
-## Automation Testing
-The automation scripts validate critical flows including sign-up, login, file upload, and security measures.
+📂 Project Resources
 
-## Future Enhancements
-- Improve performance for large file uploads.
-- Enhance user experience with better error handling.
-- Implement Dark Mode for better UI consistency.
-- Strengthen access control and security measures.
+📑 Project Documentation: Manual_All
 
-## Tester Information
-**Tester**: Rohit Chouhan  
-**Social Media**: [[LinkedIn](https://www.linkedin.com/in/rohit-chouhan-74669a16a/)](#)
+🖥️ GitHub Repository: GitHub
+
+🛠️ Technologies Used
+
+Programming & Testing: Java (Test Scripts), Selenium (TestNG)
+
+Project Management: Jira (Test Cases, Bug Reports)
+
+Testing & Automation: Selenium, JMeter, OWASP ZAP
+
+🚀 Automation Testing
+
+Our automation scripts rigorously validate critical workflows, including sign-up, login, file upload, and security measures.
+
+🔍 Automation Tools
+
+Selenium – UI test automation
+
+JMeter – Performance testing
+
+OWASP ZAP – Security vulnerability scanning
+
+✅ Automated Test Cases
+
+Sign-up Test – Ensure smooth account creation and redirection.
+
+Login Test – Verify authentication using registered credentials.
+
+File Upload Test – Validate encryption and password protection.
+
+Security Validation – Conduct penetration tests and enforce access control.
+
+📊 Test Summary
+
+✅ Total Test Cases: 60
+
+🟢 Passed: 50
+
+🔴 Failed: 10
+
+⚠️ Critical Defects: 4
+
+🌟 Future Enhancements
+
+⚡ Optimize performance for large file uploads.
+
+🔄 Enhance user experience with improved error handling.
+
+🌙 Implement Dark Mode for a modern UI.
+
+🔐 Strengthen access control and security protocols.
+
+🏆 Tester Information
+
+👤 Tester: Rohit Chouhan
+
+💼 LinkedIn: Rohit Chouhan
 
 
 
