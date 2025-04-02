@@ -1,6 +1,6 @@
-Secure File Sharing Web Application
+## Secure File Sharing Web Application
 
-Overview
+## Overview
 
 The Secure File Sharing Web Application provides a safe and efficient platform for users to upload, share, and manage files with advanced encryption and password protection. Hosted on Netlify, the application follows industry best practices for security, performance, and user experience.
 
@@ -17,14 +17,15 @@ Key Features
 🌍 Cross-Browser Compatibility – Works seamlessly across all major browsers and devices.
 
 🔗 Live Application
+[Secure File Sharing Web App](https://file-sharing-application.netlify.app/login)
 
 Access the Secure File Sharing Web App
 
-📂 Project Resources
+📂 Project Resources 
 
-📑 Project Documentation: Manual_All
+📑 Project Documentation:[Manual_All](https://drive.google.com/drive/folders/1sAPWbztK8l0fKUfJuG2jQZRT6kpZnJQb?usp=sharing)
 
-🖥️ GitHub Repository: GitHub
+🖥️ GitHub Repository: [Github](https://github.com/Rohit9977123/Des_Technico_Manual_Automation.git)
 
 🛠️ Technologies Used
 
@@ -80,7 +81,7 @@ Security Validation – Conduct penetration tests and enforce access control.
 
 👤 Tester: Rohit Chouhan
 
-💼 LinkedIn: Rohit Chouhan
+💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/rohit-chouhan-74669a16a/)](#)
 
 
 
