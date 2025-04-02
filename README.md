@@ -12,9 +12,9 @@ The Secure File Sharing Web Application enables users to securely upload, share,
 
 ## Live URL
 [Secure File Sharing Web App](https://file-sharing-application.netlify.app/login)
-## Drive Link
-[ManualAll](https://drive.google.com/drive/folders/1sAPWbztK8l0fKUfJuG2jQZRT6kpZnJQb?usp=sharing)
-
+## Project link
+[Manual_All](https://drive.google.com/drive/folders/1sAPWbztK8l0fKUfJuG2jQZRT6kpZnJQb?usp=sharing)
+[Github](https://github.com/Rohit9977123/Des_Technico_Manual_Automation.git)
 ## Technologies Used
 - **Selenium**: TestNG,
 - **Java** Test Script
