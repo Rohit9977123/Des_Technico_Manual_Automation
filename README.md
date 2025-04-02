@@ -1,7 +1,8 @@
-# Secure File Sharing Web Application
+## Secure File Sharing Web Application
 
 ## Overview
-The Secure File Sharing Web Application enables users to securely upload, share, and manage files with password protection and encryption. The application is hosted on Netlify and follows best practices for security, performance, and user experience.
+
+The Secure File Sharing Web Application provides a safe and efficient platform for users to upload, share, and manage files with advanced encryption and password protection. Hosted on Netlify, the application follows industry best practices for security, performance, and user experience.
 
 ## Features
 - **Secure File Upload**: Drag-and-drop functionality for easy file uploads.
