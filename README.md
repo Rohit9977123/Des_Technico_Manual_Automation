@@ -57,32 +57,6 @@ The automation scripts validate critical flows including sign-up, login, file up
 ## Automation Testing
 The automation scripts validate critical flows including sign-up, login, file upload, and security measures.
 
-### Automation Tools
-- **Selenium**: UI test automation.
-- **JMeter**: Performance testing.
-- **OWASP ZAP**: Security vulnerability scanning.
-
-### Automated Test Cases
-1. **Sign-up Test**:
-   - Navigate to the sign-up page.
-   - Enter valid details and submit.
-   - Verify account creation and redirection.
-2. **Login Test**:
-   - Enter registered credentials.
-   - Validate successful authentication.
-3. **File Upload Test**:
-   - Drag and drop a file.
-   - Validate file encryption and password protection.
-4. **Security Validation**:
-   - Perform penetration tests for vulnerabilities.
-   - Ensure proper access control mechanisms.
-
-## Test Summary
-- **Total Test Cases**: 60
-- **Passed**: 50
-- **Failed**: 10
-- **Critical Defects**: 4
-
 ## Future Enhancements
 - Improve performance for large file uploads.
 - Enhance user experience with better error handling.
