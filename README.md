@@ -48,9 +48,7 @@ Our automation scripts rigorously validate critical workflows, including sign-up
 
 Selenium – UI test automation
 
-JMeter – Performance testing
 
-OWASP ZAP – Security vulnerability scanning
 
 ✅ Automated Test Cases
 
