@@ -28,6 +28,9 @@ Access the Secure File Sharing Web App
 🖥️ GitHub Repository: [Github](https://github.com/Rohit9977123/Des_Technico_Manual_Automation.git)
 ![image](https://github.com/user-attachments/assets/3b269c51-9cad-49ba-b363-c07e0798ea16):[Explanation](https://vimeo.com/1072081720?share=copy)
 
+![image](https://github.com/user-attachments/assets/bb528815-e9df-4ed5-8ad6-1976b20648a6):[bug_report](https://docs.google.com/spreadsheets/d/1rGFxTG023WJ3kIlYe1THYK1cCRWCTfiWRhc7R15L3V4/edit?usp=sharing)
+
+
 
 🛠️ Technologies Used
 
