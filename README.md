@@ -38,7 +38,7 @@ Programming & Testing: Java (Test Scripts), Selenium (TestNG)
 
 Project Management: Jira (Test Cases, Bug Reports)
 
-Testing & Automation: Selenium, JMeter
+Testing & Automation: Selenium, 
 
 🚀 Automation Testing
 
